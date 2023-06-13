@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+poetry.lock
+.idea/
 # Distribution / packaging
 .Python
 build/
@@ -120,7 +121,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
